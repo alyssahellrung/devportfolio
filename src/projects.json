@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Pandemic Pantry",
+    "image": "assets/images/largeShotSquare.png",
+    "github": "https://github.com/alyssahellrung/Pandemic-Pantry",
+    "deployed": "https://alyssahellrung.github.io/Pandemic-Pantry/"
+  },
+  {
+    "id": 2,
+    "name": "GetTask",
+    "image": "assets/images/GetTask.png",
+    "github": "https://github.com/alyssahellrung/GetTask",
+    "deployed": "https://calm-scrubland-27592.herokuapp.com/"
+  },
+  {
+    "id": 3,
+    "name": "Express Note Taker",
+    "image": "assets/images/noteTaker.png",
+    "github": "https://github.com/alyssahellrung/Express-Note-Taker",
+    "deployed": "https://still-dusk-77371.herokuapp.com/"
+  },
+  {
+    "id": 4,
+    "name": "Burger Logger",
+    "image": "assets/images/burgerLogger.png",
+    "github": "https://github.com/alyssahellrung/Burger-Logger",
+    "deployed": "https://infinite-savannah-02998.herokuapp.com/"
+  },
+  {
+    "id": 5,
+    "name": "Weather Dashboard",
+    "image": "assets/images/weatherSquare.png",
+    "github": "https://github.com/alyssahellrung/weatherDashboard",
+    "deployed": "https://alyssahellrung.github.io/weatherDashboard/"
+  },
+  {
+    "id": 6,
+    "name": "Workday Scheduler",
+    "image": "assets/images/Weekday.png",
+    "github": "https://github.com/alyssahellrung/workDayScheduler",
+    "deployed": "https://alyssahellrung.github.io/workDayScheduler/"
+  }
+]

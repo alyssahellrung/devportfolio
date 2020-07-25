@@ -5,12 +5,15 @@ function NavBar() {
   const location = useLocation();
 
   return (
-    <ul className="nav nav-tabs">
-      <li className="nav-item">
-        <Link to="/" className={location.pathname === "/" ? "nav-link active" : "nav-link"}>
-          Home
-        </Link>
-      </li>
+    <nav className="navbar navbar-expand-lg navbar-dark">
+      <a className="navbar-brand" id="logo" href="#">Alyssa Hellrung</a>
+      <button className="navbar-toggler" type="button" dataToggle="collapse" dataTarget="#navbarSupportedContent" ariaControls="navbarSupportedContent" ariaExpanded="false" ariaLabel="Toggle navigation">
+      <span className="navbar-toggler-icon"></span>
+      </button>
+
+      <div className="collapse navbar-collapse" id="navbarSupportedContent">
+
+    <ul className="navbar-nav ml-auto">
       <li className="nav-item">
         <Link to="/about" className={location.pathname === "/about" ? "nav-link active" : "nav-link"}>
           About
@@ -33,6 +36,8 @@ function NavBar() {
         </Link>
       </li>
     </ul>
+    </div>
+    </nav>
   );
 }
 

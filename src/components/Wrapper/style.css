@@ -1,4 +1,13 @@
+/* * {
+  box-sizing: border-box;
+} */
+
 .wrapper {
-  min-height: 100%;
-  padding-bottom: 100px;
+    box-sizing: border-box;
+    color: #777777;
+    min-height: 100%;
+    padding-bottom: 100px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    background-image: url("./seigaiha.png");
 }
+

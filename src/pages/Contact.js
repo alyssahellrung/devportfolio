@@ -12,6 +12,7 @@ function Contact() {
       <ul className="nav flex-column">
         <li className="contactInfo">Phone: (206)-940-8673</li>
         <li className="contactInfo">Email: alyssahellrung@gmail.com</li>
+        <li className="contactInfo">Resume</li>
         <li className="nav-item">
           <a className="nav-link greyLink" href="https://www.linkedin.com/in/alyssa-hellrung-63949a197/">
           <i className="fab fa-linkedin fa-3x"></i> 
@@ -31,3 +32,5 @@ function Contact() {
 }
 
 export default Contact;
+
+//Resume link: https://docs.google.com/document/d/1-4lJK2DHhFkPS-sIDV0U-pX4YhaK0y-DRVqdMSYaLBc/export?format=pdf

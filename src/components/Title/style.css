@@ -1,0 +1,15 @@
+.titlebox {
+  background-color: #ffffff;
+  padding-right: 15px;
+  padding-left: 15px;
+  padding-top: 0px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #A993BF;
+  margin: 10px 10px 10px 0px;
+}
+
+h1 {
+  color: #762EA6;
+  font-family: Georgia, Times, Times New Roman, serif;
+  font-weight: bold;
+}

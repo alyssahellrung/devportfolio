@@ -1,0 +1,37 @@
+nav {
+  width: 100%;
+  padding: 15px;
+}
+
+.navbar {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #5B2A8C;
+  height: 70px;
+}
+
+.nav-link {
+  color: #a395b4;
+}
+
+.nav-link:active {
+  color: #ffffff;
+}
+
+.greyLink:hover {
+  color: #762EA6;
+}
+
+.portolinks {
+  color: #762EA6;
+}
+
+#logo {
+  color: #ffffff;
+  background-color: #5B2A8C;
+  font-weight: bold;
+  font-family: Georgia, Times, Times New Roman, serif;
+  font-size: x-large;
+  padding: 10px;
+  margin-left: 20px;
+}
