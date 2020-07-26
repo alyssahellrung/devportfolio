@@ -11,8 +11,8 @@ import Footer from "./components/Footer";
 function App() {
     return (
       <Router basename="/">
-        <div>
-          <NavBar />
+        <NavBar />
+          <div>
           <Wrapper>
           <Switch>
             <Route exact path="/">
@@ -29,7 +29,7 @@ function App() {
             </Route>
           </Switch>
           </Wrapper>
-        </div>
+          </div>
         <Footer />
         </Router>
     );

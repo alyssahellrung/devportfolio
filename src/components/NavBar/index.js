@@ -1,17 +1,21 @@
 import React from "react";
 import { Link, useLocation } from "react-router-dom";
+import "./style.css";
 
 function NavBar() {
   const location = useLocation();
 
   return (
-    <nav className="navbar navbar-expand-lg navbar-dark">
-      <a className="navbar-brand" id="logo" href="#">Alyssa Hellrung</a>
+    <div>
+     <nav className="navbar navbar-expand-lg navbar-dark">
+       <Link className="navbar-brand" to="/">
+         Alyssa Hellrung
+       </Link>
       <button className="navbar-toggler" type="button" dataToggle="collapse" dataTarget="#navbarSupportedContent" ariaControls="navbarSupportedContent" ariaExpanded="false" ariaLabel="Toggle navigation">
       <span className="navbar-toggler-icon"></span>
       </button>
 
-      <div className="collapse navbar-collapse" id="navbarSupportedContent">
+      <div className="collapse navbar-collapse" id="navbarSupportedContent"> 
 
     <ul className="navbar-nav ml-auto">
       <li className="nav-item">
@@ -38,6 +42,8 @@ function NavBar() {
     </ul>
     </div>
     </nav>
+    </div>
+   
   );
 }
 

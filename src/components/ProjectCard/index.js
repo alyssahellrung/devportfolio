@@ -3,28 +3,18 @@ import "./style.css";
 
 function ProjectCard(props) {
   return (
-    <div className="row row-cols-1 row-cols-lg-2">
+    
       <div className="col lg-4">
-    <div className="card projects">
-      {/* <div className="img-container"> */}
-        <img alt={props.name} src={props.image} />
+        <div className="card projects">
+        <img alt={props.name} className="portPhoto card-img-top" src={props.image} />
+        <div className="card-body">
+        <h5 className="card-title">Name: {props.name}</h5>
+        <a class="card-text portolinks" href={props.github} target="blank">GitHub Repo</a>
+        <br></br>
+        <a class="card-text portolinks" href={props.deployed} target="blank">Deployed Application</a>
+        </div>
+      </div>  
       </div>
-      <div className="content">
-        <ul>
-          <li>
-            <strong>Name:</strong> {props.name}
-          </li>
-          <li>
-            <strong>Github Repo:</strong> {props.github}
-          </li>
-          <li>
-            <strong>Deployed App:</strong> {props.deployed}
-          </li>
-        </ul>
-      </div>
-      </div>
-      </div>
-      // </div>
     );
   }
 

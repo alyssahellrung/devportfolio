@@ -2,14 +2,14 @@
   {
     "id": 1,
     "name": "Pandemic Pantry",
-    "image": "assets/images/largeShotSquare.png",
+    "image": "./images/largeShotSquare.png",
     "github": "https://github.com/alyssahellrung/Pandemic-Pantry",
     "deployed": "https://alyssahellrung.github.io/Pandemic-Pantry/"
   },
   {
     "id": 2,
     "name": "GetTask",
-    "image": "assets/images/GetTask.png",
+    "image": "images/GetTask.png",
     "github": "https://github.com/alyssahellrung/GetTask",
     "deployed": "https://calm-scrubland-27592.herokuapp.com/"
   },

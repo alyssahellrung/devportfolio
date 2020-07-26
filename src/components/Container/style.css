@@ -1,7 +1,23 @@
 .container {
   background-color: #ffffff;
   width: 768px;
-  margin: 60px 30px 60px 30px;
+  margin: 20px 30px 10px 30px;
   padding: 15px;
   border: 1px solid #A993BF;
+}
+
+.nav-link {
+  color: #a395b4;
+}
+
+.nav-link:active {
+  color: #ffffff;
+}
+
+.greyLink:hover {
+  color: #762EA6;
+}
+
+.portolinks {
+  color: #762EA6;
 }

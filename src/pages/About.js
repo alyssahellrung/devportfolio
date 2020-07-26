@@ -1,17 +1,19 @@
 import React from "react";
-import Title from "../components/Title";
 import MainContent from "../components/MainContent";
 import Container from "../components/Container";
+import AboutMePhoto from "../images/AboutMePhoto.jpg";
 
 function About() {
   return (
     <div>
     <Container>
-    <Title />
+    <div className="titlebox">
+        <h1>About Me</h1>
+      </div>
     <MainContent>  
     <div className="row">
       <div className="col-lg-6">
-        <img className="img img-thumbnail" src="assets/images/AboutMePhoto.jpg" alt="Alyssa on trapeze"/>
+        <img className="img img-thumbnail" src={AboutMePhoto} alt="Alyssa on trapeze"/>
       </div> 
       <div className="col-lg-6">
       <p>Alyssa Hellrung is new to coding. She comes from the worlds of academics and circus arts and is now diving into tech. Alyssa teaches a course she developed, "Gender and Sport", at the University of Washington, where she earned her doctorate in Feminist Studies in 2009. She has a deep interest in elite, young, women athletes and in college athletics in general.</p>
