@@ -9,9 +9,9 @@ function ProjectCard(props) {
         <img alt={props.name} className="portPhoto card-img-top" src={props.image} />
         <div className="card-body">
         <h5 className="card-title">Name: {props.name}</h5>
-        <a class="card-text portolinks" href={props.github} target="blank">GitHub Repo</a>
+        <a className="card-text portolinks" href={props.github} target="blank">GitHub Repo</a>
         <br></br>
-        <a class="card-text portolinks" href={props.deployed} target="blank">Deployed Application</a>
+        <a className="card-text portolinks" href={props.deployed} target="blank">Deployed Application</a>
         </div>
       </div>  
       </div>

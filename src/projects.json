@@ -2,42 +2,42 @@
   {
     "id": 1,
     "name": "Pandemic Pantry",
-    "image": "./images/largeShotSquare.png",
+    "image": "https://scontent-sea1-1.xx.fbcdn.net/v/t1.0-9/115893650_10164148502245442_8087491365532676781_o.jpg?_nc_cat=103&_nc_sid=0debeb&_nc_ohc=EhyMB2GWg8IAX_50lD4&_nc_ht=scontent-sea1-1.xx&oh=fb7db3b782c7ad6eefc7c3ab446c5978&oe=5F45DC9B",
     "github": "https://github.com/alyssahellrung/Pandemic-Pantry",
     "deployed": "https://alyssahellrung.github.io/Pandemic-Pantry/"
   },
   {
     "id": 2,
     "name": "GetTask",
-    "image": "images/GetTask.png",
+    "image": "https://scontent-sea1-1.xx.fbcdn.net/v/t1.0-9/116654344_10164148502105442_8924476014486120008_n.jpg?_nc_cat=111&_nc_sid=0debeb&_nc_ohc=8SM_xxGmqHcAX_6_LPG&_nc_ht=scontent-sea1-1.xx&oh=080bdc9ad8ff67bc74490b0741091d14&oe=5F47EDEF",
     "github": "https://github.com/alyssahellrung/GetTask",
     "deployed": "https://calm-scrubland-27592.herokuapp.com/"
   },
   {
     "id": 3,
     "name": "Express Note Taker",
-    "image": "assets/images/noteTaker.png",
+    "image": "https://scontent-sea1-1.xx.fbcdn.net/v/t1.0-9/115939982_10164148502735442_8517475946066523432_n.jpg?_nc_cat=109&_nc_sid=0debeb&_nc_ohc=x9CwzQt134MAX9fF5hs&_nc_ht=scontent-sea1-1.xx&oh=9608cd587ca4bd795310370817992f13&oe=5F449ABD",
     "github": "https://github.com/alyssahellrung/Express-Note-Taker",
     "deployed": "https://still-dusk-77371.herokuapp.com/"
   },
   {
     "id": 4,
     "name": "Burger Logger",
-    "image": "assets/images/burgerLogger.png",
+    "image": "https://scontent-sea1-1.xx.fbcdn.net/v/t1.0-9/109740396_10164148501735442_8677144320088798316_n.jpg?_nc_cat=102&_nc_sid=0debeb&_nc_ohc=eaG7y09yr5cAX-fPGwq&_nc_ht=scontent-sea1-1.xx&oh=6ba5edebfec0de480bf1281a8eacd1a7&oe=5F461F27",
     "github": "https://github.com/alyssahellrung/Burger-Logger",
     "deployed": "https://infinite-savannah-02998.herokuapp.com/"
   },
   {
     "id": 5,
     "name": "Weather Dashboard",
-    "image": "assets/images/weatherSquare.png",
+    "image": "https://scontent-sea1-1.xx.fbcdn.net/v/t1.0-9/116344263_10164148502385442_5131063249858375723_n.jpg?_nc_cat=108&_nc_sid=0debeb&_nc_ohc=NvfRXxjd2OQAX8ycq7O&_nc_ht=scontent-sea1-1.xx&oh=64b7752a7dae2084b425d9e91b3cc064&oe=5F479493",
     "github": "https://github.com/alyssahellrung/weatherDashboard",
     "deployed": "https://alyssahellrung.github.io/weatherDashboard/"
   },
   {
     "id": 6,
     "name": "Workday Scheduler",
-    "image": "assets/images/Weekday.png",
+    "image": "https://scontent-sea1-1.xx.fbcdn.net/v/t1.0-9/116132302_10164148502585442_1124714408430275758_n.jpg?_nc_cat=102&_nc_sid=0debeb&_nc_ohc=K8TF6UKOqsEAX_kKCbj&_nc_ht=scontent-sea1-1.xx&oh=b30b3175582a8f481cd9856dc3109af6&oe=5F448F39",
     "github": "https://github.com/alyssahellrung/workDayScheduler",
     "deployed": "https://alyssahellrung.github.io/workDayScheduler/"
   }

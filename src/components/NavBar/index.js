@@ -11,7 +11,7 @@ function NavBar() {
        <Link className="navbar-brand" to="/">
          Alyssa Hellrung
        </Link>
-      <button className="navbar-toggler" type="button" dataToggle="collapse" dataTarget="#navbarSupportedContent" ariaControls="navbarSupportedContent" ariaExpanded="false" ariaLabel="Toggle navigation">
+      <button className="navbar-toggler" type="button" datatoggle="collapse" datatarget="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span className="navbar-toggler-icon"></span>
       </button>
 
